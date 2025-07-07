@@ -1,23 +1,19 @@
-<div align="center">
-  <img style="border-radius: 50%;" height="150" src="https://avatars.githubusercontent.com/u/179452186"  />
-</div>
 
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+ 
+<center>‼️ ye design bas gimmick hai, ye kisi kaam ka nahi ‼️<center>
 </div>
 
 
 #  mai kon hu?
 ->Hellooo!! mai Aman hu and this is my git 👊<br>->if u are here so u want to see what i made u can explore repo <br><br>->⚠️ ⚠️warning projects are unorganized and randomly pushed<br>-> know more about a_man : https://avpro.netlify.app/<br><br>
 
-<center>‼️ ye design bas gimmick hai, ye kisi kaam ka nahi ‼️<center>
 
 
 ## 🌐 Socials:
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onceamansmiles) 
 
 # 💻 Tech Stack:
@@ -30,4 +26,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=avashx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
