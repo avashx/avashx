@@ -1,5 +1,7 @@
-#  Me:
-->Hi this is me and this is my git 👊<br>->(if u are here so u want to see what i made)<br><br>->⚠️ ⚠️warning projects are unorganized and randomly pushed<br>-> know more about a_man : https://avpro.netlify.app/<br><br>
+#  mai kon hu?:
+->Hi mai Aman Vashishth hu and this is my git 👊<br>->if u are here so u want to see what i made u can explore repo <br><br>->⚠️ ⚠️warning projects are unorganized and randomly pushed<br>-> know more about a_man : https://avpro.netlify.app/<br><br>
+
+<br>ye design bas gimmick hai, ye kisi kaam ka nahi<br>
 
 
 ## 🌐 Socials:
