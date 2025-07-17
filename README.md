@@ -7,7 +7,7 @@
 
 
 #  mai kon hu?
-->Hellooo!! mai Aman hu and this is my git 👊<br>->u can explore repo <br><br>->⚠️ ⚠️warning projects are unorganized and randomly pushed<br>-> know more about a_man : https://avpro.netlify.app/<br><br>
+->Hellooo!! mai Aman hu and this is my git 👊<br>->u can explore repo <br><br>->⚠️doosra warning⚠️ - projects are unorganized and randomly pushed<br>-> know more about a_man : https://avpro.netlify.app/<br><br>
 
 
 
