@@ -2,12 +2,12 @@
 
 <div align="center">
  
-<center>‼️ ye design bas gimmick hai, ye kisi kaam ka nahi ‼️<center>
+<center>⚠️WARNING⚠️ - ‼️ ye design bas gimmick hai, ye kisi kaam ka nahi ‼️<center>
 </div>
 
 
 #  mai kon hu?
-->Hellooo!! mai Aman hu and this is my git 👊<br>->if u are here so u want to see what i made u can explore repo <br><br>->⚠️ ⚠️warning projects are unorganized and randomly pushed<br>-> know more about a_man : https://avpro.netlify.app/<br><br>
+->Hellooo!! mai Aman hu and this is my git 👊<br>->u can explore repo <br><br>->⚠️ ⚠️warning projects are unorganized and randomly pushed<br>-> know more about a_man : https://avpro.netlify.app/<br><br>
 
 
 
@@ -29,6 +29,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
